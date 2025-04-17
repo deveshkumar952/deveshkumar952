@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DEVESH KUMAR</h1>
-<h3 align="center">A passionate for Game Development from India</h3>
+<h3 align="center">A passionate for Web Development from India</h3>
 
 - 🌱 I’m currently learning **Frontend Developer and Data Structure Algorithm**
 
